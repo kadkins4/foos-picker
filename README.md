@@ -1,21 +1,4 @@
 # team_picker
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+## What Is It?
+- A stupid little project made because I miss playing foosball everyday at work...
